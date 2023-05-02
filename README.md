@@ -1,1 +1,1 @@
-# dragAndDrop_in_plain_TS
+# Drag&Drop application written in plain TypeScript
